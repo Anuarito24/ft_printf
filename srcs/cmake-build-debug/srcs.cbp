@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="srcs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/avenonat/Desktop/printf/srcs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/avenonat/Desktop/printf/srcs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/avenonat/Desktop/printf/srcs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="srcs">
+				<Option output="/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/srcs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/avenonat/Desktop/printf/srcs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/avenonat/Desktop/printf/srcs/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 srcs"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="srcs/fast">
+				<Option output="/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/srcs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/avenonat/Desktop/printf/srcs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/avenonat/Desktop/printf/srcs/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 srcs/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/avenonat/Desktop/printf/srcs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/accept_color.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/accuracy.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/char_pminus_space.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/char_pregular_space.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/convert.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/convert_float.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/convert_float_zero.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/convert_hexadecimal_lcase.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/convert_hexadecimal_upcase.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/decimal_pplus_space.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/decimal_pregular_space.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/decimal_pregular_zero.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/decimal_pspace_else.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/decimal_pspace_if.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/decimal_pzero.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/decimal_simple_size.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/find_percent.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/flags.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/float2.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/free_list.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_atoi.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_itoa.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_itoa8.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_memset.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_power.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_printf.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_printf.h">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_putchar.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_putendl.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_putnbr.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_putnchar.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_putnstr.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_putstr.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_round.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_strcat.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_strcpy.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_strjoin.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_strlen.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/ft_strnew.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/hexadecimal_pregular_space.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/len_after_dot.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/minus2.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/octal_pregular_space.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/search_mistake.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/search_type.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/size.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_char_minus_c.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_char_minus_s.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_char_priority.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_char_regular_c.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_char_regular_s.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_decimal_minus.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_decimal_plus.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_decimal_priority.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_decimal_regular.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_decimal_size.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_decimal_space.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_decimal_zero.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_float_minus.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_float_plus.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_float_priority.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_float_regular.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_float_size.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_float_space.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_float_zero.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_hexadecimal_minus.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_hexadecimal_priority.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_hexadecimal_regular.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_hexadecimal_size.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_octal_minus.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_octal_priority.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_octal_regular.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_octal_size.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_octal_zero.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_percent_minus.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_percent_priority.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_percent_regular.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/type_pointer_regular.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/width.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/zero2.c">
+			<Option target="srcs"/>
+		</Unit>
+		<Unit filename="/Users/avenonat/Desktop/printf/srcs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
